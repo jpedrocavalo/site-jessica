@@ -1,0 +1,7 @@
+*.lnk
+wrangler.toml
+.assetsignore
+.wrangler
+.wrangler/**
+.claude
+.claude/**
