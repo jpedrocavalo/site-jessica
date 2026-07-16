@@ -5,3 +5,6 @@ wrangler.toml
 .wrangler/**
 .claude
 .claude/**
+.git
+.git/**
+.gitignore

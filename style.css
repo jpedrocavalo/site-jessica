@@ -120,7 +120,7 @@ h1, h2, h3, h4, .display {
   white-space: nowrap;
 }
 .sec-head .eyebrow, .about .eyebrow { background: none; padding: 0; }
-.hero h1 { font-size: 68px; margin: 26px 0 22px; text-wrap: balance; }
+.hero h1 { font-size: 40px; margin: 26px 0 22px; text-wrap: balance; }
 .hero h1 em { font-style: normal; color: var(--red-600); }
 .hero p { font-size: 19px; color: var(--muted); max-width: 28em; margin: 0 0 34px; }
 .hero-cta { display: flex; align-items: center; gap: 16px; flex-wrap: wrap; }
@@ -333,7 +333,7 @@ h1, h2, h3, h4, .display {
   .hero-inner { grid-template-columns: 1fr; margin: 0 16px; min-height: 0; }
   .hero-l { align-self: auto; }
   .hero-l { padding: 44px 28px 36px; }
-  .hero h1 { font-size: 42px; }
+  .hero h1 { font-size: 30px; }
   .hero p { font-size: 17px; }
   .hero-photo { height: 260px; min-height: 260px; }
   .hero-inner .hero-photo { position: relative; grid-column: auto; grid-row: auto; inset: auto; height: 260px; min-height: 260px; }
